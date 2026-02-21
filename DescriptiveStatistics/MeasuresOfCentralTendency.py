@@ -7,3 +7,4 @@ print("DataFrame:", d);
 print("Mean:", d.mean());
 print("Median:", d.median());
 print("Mode:", d.mode());
+m
